@@ -49,7 +49,7 @@
 			"isHiddenInLogForParticipant": false,
 			"supportsForward": false,
 			"userInterface": "sapui5://ChipSet.ChipUI/ChipUI",
-			"recipientUsers": "esalacupnamde420@protonmail.com",
+			"recipientUsers": "veeresh.s@lntinfotech.com",
 			"recipientGroups": "sap id",
 			"id": "usertask1",
 			"name": "UserTask1"
